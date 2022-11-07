@@ -10,7 +10,7 @@ Problem description:
 **Example 1:**
 
 ```markdown
-**Input:** num = 9669
+`*Input:*` num = 9669
 **Output:** 9969
 **Explanation:** 
 Changing the first digit results in 6669.
