@@ -11,8 +11,8 @@ Problem description:
 
 ```
 Input: num = 9669
-**Output:** 9969
-**Explanation:** 
+Output: 9969
+Explanation: 
 Changing the first digit results in 6669.
 Changing the second digit results in 9969.
 Changing the third digit results in 9699.
@@ -23,21 +23,21 @@ The maximum number is 9969.
 **Example 2:**
 
 ```markdown
-**Input:** num = 9996
-**Output:** 9999
-**Explanation:** Changing the last digit 6 to 9 results in the maximum number.
+Input: num = 9996
+Output: 9999
+Explanation: Changing the last digit 6 to 9 results in the maximum number.
 ```
 
 **Example 3:**
 
 ```markdown
-**Input:** num = 9999
-**Output:** 9999
-**Explanation:** It is better not to apply any change.
+Input: num = 9999
+Output: 9999
+Explanation: It is better not to apply any change.
 ```
 
 **Constraints:**
 ```markdown
-* 1 <= num <= 10^4
-* num consists of only 6 and 9 digits.
+1 <= num <= 10^4
+num consists of only 6 and 9 digits.
 ```
