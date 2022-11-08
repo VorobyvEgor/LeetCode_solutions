@@ -9,7 +9,7 @@ Problem description:
 
 **Example 1:**
 
-```
+```markdown
 Input: num = 9669
 Output: 9969
 Explanation: 
@@ -37,7 +37,6 @@ Explanation: It is better not to apply any change.
 ```
 
 **Constraints:**
-```markdown
-1 <= num <= 10^4
-num consists of only 6 and 9 digits.
-```
+
+* ```1 <= num <= $10^4$```
+* ```num``` consists of only 6 and 9 digits.
