@@ -38,5 +38,5 @@ Explanation: It is better not to apply any change.
 
 **Constraints:**
 
-* ```1 <= num <= $10^4$```
+* ```1 <= num <= 10^4```
 * ```num``` consists of only 6 and 9 digits.
