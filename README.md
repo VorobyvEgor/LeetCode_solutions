@@ -5,3 +5,8 @@ This repository contains solutions to problems with LeetCode
 
 The list of problems:
 * Maximum 69 Number :green_square:
+
+Where:
+* :green_square: - easy problem
+* :yellow_square: - medium problem
+* :red_square: - hard problem
