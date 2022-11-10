@@ -6,6 +6,7 @@ This repository contains solutions to problems with LeetCode
 The list of problems:
 * Maximum 69 Number :green_square:
 * Make The String Great :green_square:
+* Online Stock Span :yellow_square:
 
 Where:
 * :green_square: - easy problem
