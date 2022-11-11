@@ -8,6 +8,7 @@ The list of problems:
 * Make The String Great :green_square:
 * Online Stock Span :yellow_square:
 * Remove All Adjacent Duplicates In String :green_square:
+* Remove Duplicates from Sorted Array :green_square:
 
 Where:
 * :green_square: - easy problem
